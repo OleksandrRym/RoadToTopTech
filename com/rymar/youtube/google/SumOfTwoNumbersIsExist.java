@@ -10,7 +10,7 @@ import java.util.Set;
 ///
 /// I nearly had this task in an interview at one of the top 3 IT companies in Ukraine.
 public class SumOfTwoNumbersIsExist {
-  private static final int[] NUMS_ARRAY = {1, 2, 3, 4, 4, 6};
+  private static final int[] NUMS_ARRAY = {1, 2, 3, 4, 4};
   private static final int TARGET = 8;
 
   public static void main(String[] args) {
